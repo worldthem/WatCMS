@@ -12,7 +12,9 @@ WhatCMS is a is open source Content Management System what you can use to create
 The main role is to build a website with more than 500 products what work fine on shared hosting and save your finance. 
  
  <img src="https://watcms.com/public/uploads/8910879662600f269ef322671fd91e9566686540.jpg" alt="watcms">
- 
+ <img src="https://watcms.com/public/img/homeIcon.jpg" alt="watcms"> 
+ <img src="https://watcms.com/public/uploads/thumb/electro.jpg" alt="watcms">
+
  
 ## WatCMS is builded on Laravel CMS all the utils link for documentation you can find bellow
 
