@@ -26,8 +26,6 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## WatCMS the list of themes
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
 - **[Classifieds ads - it's a profesional theme what allow you to create an ads list website ](https://watcms.com/buy-site/watcms-themes-for-online-shop/Classifieds-ads)**
 - **[Standart-default theme when install Watcms](https://watcms.com/buy-site/watcms-themes-for-online-shop/Standart)**
 - **[Electro- sell all your eloctronics with the profesionals website](https://watcms.com/buy-site/watcms-themes-for-online-shop/Electro)**
